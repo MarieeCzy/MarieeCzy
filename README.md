@@ -1,5 +1,5 @@
  # Hi, I’m @MarieeCzy 🙋🏽‍♀️👋 
-*I'm an experienced R&D engineer ⚙️ food 🍔 and german-sheppeheard lover 🐕🐺*
+### *I'm an experienced R&D engineer ⚙️ food 🍔 and german-sheppeheard lover 🐕🐺*
 
 ## 👀 I’m interested in: ↩️
  - ✈️    aviation 
@@ -20,7 +20,7 @@
 -  Autodesk Inventor 🛠
 
 ## 📫 How to reach me on LinkedIn: 
-[maria.czapczyk](https://www.linkedin.com/in/maria-czapczyk/)
+- [maria.czapczyk](https://www.linkedin.com/in/maria-czapczyk/)
 
 <!---
 MarieeCzy/MarieeCzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
