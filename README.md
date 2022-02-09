@@ -1,6 +1,6 @@
  # Hi, I’m @MarieeCzy 🙋🏽‍♀️👋 
-### *I'm an experienced R&D engineer ⚙️ 
-Food 🍔 and german-shepherd lover 🐕🐺*
+### I'm an experienced R&D engineer ⚙️ 
+Food 🍔 and german-shepherd lover 🐕🐺
 
 ## 👀 I’m interested in: ↩️
  - ✈️    aviation 
