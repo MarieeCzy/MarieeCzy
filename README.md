@@ -1,5 +1,5 @@
  # Hi, I’m @MarieeCzy 🙋🏽‍♀️👋 
-### I'm an experienced R&D engineer ⚙️ 
+### I'm an R&D engineer ⚙️ 
 Food 🍔 and german-shepherd lover 🐕🐺
 
 ## 👀 I’m interested in: ↩️
