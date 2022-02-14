@@ -8,17 +8,22 @@ Food 🍔 and german-shepherd lover 🐕🐺
  - 👩🏽‍💻   programming  
  - 🧊   3D modelling and 3D printing 
 
-## 🌱 I’m currently learning FrontEnd technologies:
+## 🌱 I’m currently using or learning following FrontEnd technologies:
 
-- `html and css` 
-- `javascript`
+-  `html and css` 
+-  `javascript`
 -  `UI rules`
+-  `BEM naming convention`
+-  `CSS Variables`
+-  `Tailwind`
+-  `Flexbox`
+-  `Firebase`
 
 ## ⚙️ Tools which I'm using:
 
 - VisualStudio Code 🖥
 - Figma 🎨
--  Autodesk Inventor 🛠
+- Autodesk Inventor 🛠
 
 ## 📫 How to reach me on LinkedIn: 
 - [maria.czapczyk](https://www.linkedin.com/in/maria-czapczyk/)
