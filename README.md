@@ -1,29 +1,5 @@
  # Hi, I’m @__eMCe__ 🙋🏽‍♀️👋 
-### I'm an R&D engineer ⚙️ 
-Food 🍔 and german-shepherd lover 🐕🐺
-
-## 👀 I’m interested in: ↩️
- - ✈️    aviation 
-- 🖥   new technologies 
- - 👩🏽‍💻   programming  
- - 🧊   3D modelling and 3D printing 
-
-## 🌱 I’m currently using or learning following FrontEnd technologies:
-
--  `html and css` 
--  `javascript`
--  `UI rules`
--  `BEM naming convention`
--  `CSS Variables`
--  `Tailwind`
--  `Flexbox`
--  `Firebase`
-
-## ⚙️ Tools which I'm using:
-
-- VisualStudio Code 🖥
-- Figma 🎨
-- Autodesk Inventor 🛠
+### R&D engineer ⚙️ 
 
 ## 📫 How to reach me on LinkedIn: 
 - [maria.czapczyk](https://www.linkedin.com/in/maria-czapczyk/)
