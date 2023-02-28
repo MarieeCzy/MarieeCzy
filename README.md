@@ -1,5 +1,5 @@
  # Hi, I’m @__eMCe__ 🙋🏽‍♀️👋 
-### Software Engineer 
+### Junior Data Engineer
 
 ## 📫 How to reach me on LinkedIn: 
 - [maria.czapczyk](https://www.linkedin.com/in/maria-czapczyk/)
